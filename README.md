@@ -21,7 +21,7 @@ sudo docker run -it --name injector-box \
 
 
 ## Related Projects
-- https://github.com/chisbread/wine-box
+- https://github.com/ChisBread/wine-box
 - https://github.com/ChisBread/wechat-box
 - https://github.com/cixingguangming55555/wechat-bot
 
